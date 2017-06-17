@@ -7,7 +7,7 @@ define( function ( require ) {
 		wp_ws_url : 'http://fancv.url.ph/wp-appkit-api/app-edu',
 		wp_url : 'http://fancv.url.ph',
 		theme : 'q-android',
-		version : '1',
+		version : '1.0',
 		app_title : 'App Edu',
 		app_platform : 'android',
 		gmt_offset : 0,
